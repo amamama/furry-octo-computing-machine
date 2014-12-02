@@ -5,7 +5,7 @@
 
 #include "utils.h"
 #include "shiftreg.h"
-#include "unitable.h"
+#include "table.h"
 #include "matrixled.h"
 #include "binarytable.h"
 

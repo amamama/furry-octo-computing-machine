@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#include "unitable.h"
+#include "table.h"
 #include "utils.h"
 #include "fontdata.h"
 
